@@ -70,7 +70,7 @@ body {
   width: 0%;
   height: 2px;
   background: #ffb347;
-  transition: width 0.3s ease; /
+  transition: width 0.3s ease; 
 }
 .navbar {
   transition: all 3s ease;
